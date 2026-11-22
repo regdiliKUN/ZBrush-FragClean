@@ -1,0 +1,4 @@
+# keep Windows line endings for the installer and the ZScript sources
+*.bat binary
+*.txt binary
+*.obj binary

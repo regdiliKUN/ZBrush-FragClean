@@ -1,0 +1,9 @@
+# 交接 / 开发会话资料（含个人信息，不公开）
+transcript/
+notes/
+HANDOFF.md
+# ZBrush 编译产物
+*.zsc
+__pycache__/
+# 开发用的按键实验脚本
+test/KeyTest.txt
