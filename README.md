@@ -10,6 +10,8 @@
 - 可以只处理当前子工具，也可以批量处理所有可见子工具
 - 先「检测」看看有几块碎面，不改模型；确认后再「清理」
 
+> 觉得好用的话，点个 ⭐ Star 支持一下 · If you find it useful, please give it a ⭐ Star!
+
 ## 安装
 
 1. 下载并解压（GitHub 页面右上 **Code → Download ZIP**，或在 Releases 里下载）。
